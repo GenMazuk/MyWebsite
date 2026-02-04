@@ -7,13 +7,15 @@ td {
 }
 
 body {
-  font-family: Ariel;
+  font-family: Helvetica;
+  font-size:14px;
   background: lavender;
   text-align: left;
 }
 
 .headers {
   color: blueviolet;
+  font-family:Times;
 }
 
 .footer {
