@@ -19,9 +19,13 @@ body {
   padding:10px;
   background-color:#ADD8E6
 }
-/* Comments */
+
 #top {
   padding:10px;
   background-color: black;
   color: white;
+}
+
+.lists{
+  line-height: 1.8;
 }
